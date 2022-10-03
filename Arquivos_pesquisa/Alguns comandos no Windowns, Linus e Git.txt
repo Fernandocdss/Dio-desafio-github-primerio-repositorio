@@ -1,0 +1,43 @@
+--Git / GitHub
+Linus Torvalds
+
+--Git--
+--windows
+dir - listar diretorios
+cd /- possilita navegacao 
+cd .. volta ao inicio
+cls - limpa tela
+mkdir - cria pasta
+echo - printa uma frase no terminal
+del - deleta arquivos
+rmdir - remover diretorio
+
+
+
+--linux--
+ls -listar diretorios
+cd / - possibilita navegacao 
+cd .. volta ao inicio
+clear - limpa
+mkdir - cria pasta
+rm -rf  - deletar diretorio
+ls -a  - mostra pastas ocultas
+
+
+--Chave SSH e Token--
+
+
+--GIT--
+git init: criando repositorio dentro da pasta
+git status: monitora status do arquivo
+mv: move um arquivo "Usar o caminho dentre ./   /
+git config --global --unset user.email : linha de codigo pra redefinir email cadastrado
+git config --global --unset user.name : linha de codigo pra redefinir nome de usuario
+git config --global user.email "" : linha pra inserir email novamente
+git config --global user.name "" : linha de codigo pra cadastrar nome novamente
+git remote add origin "aqui onde fica endereco do repositorio sem as aspas"
+: adicionar origim de onde a genta vai enviar o arquivo
+git remote -v : lista pra onde repositorio esta apontado
+
+git push origin master: empurra arquivo pro repositorio
+git pull origin master: puxa arquivo pra maquina local

@@ -1,0 +1,10 @@
+--Meu cronograma de estudos--
+
+-Python para Ciência de Dados-
+-Primeiros passos em Python
+-Conhecendo a linguagem
+-Tipos de operadores
+-Estrutura condicional e de repetição
+-Manipulação de strings
+
+//A primeiro momento foco nesses primeiros topicos pra primeiro contato com Python

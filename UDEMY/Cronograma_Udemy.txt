@@ -1,0 +1,16 @@
+--Cronograma de estudo na Udemy--
+
+-Algoritmos e Lógica de Programação-
+-Aprimoramento no aprendizado das linguagens Java, C#, C++ e Python
+
+-Banco de Dados e SQL-
+-Iniciar meu aprendizado no curso sobre Banco de Dados 
+-Download das ferramentas
+-Virtualizando máquinas virtuais
+
+-Amazon AWS Cloud Practitioner Foundational_
+-Iniciando curso sobre Cloud Computing
+-O que é Cloud Computing
+-Tipos de Cloude Computing
+-Serviços dentro da AWS
+

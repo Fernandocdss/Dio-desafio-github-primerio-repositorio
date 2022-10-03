@@ -1,0 +1,19 @@
+--Engenharia de Software--
+
+-Atividade 1
+Data de entrega: 21/10/2022
+-Atividade 2
+Data de entrega: 28/10/2022
+
+-Aulas ao vivo
+Aula 1: 04/10/2022
+Aula 2: 11/10/2022
+Aula 3: 18/10/2022
+Aula 4: 25/10/2022
+
+--Banco de Dados--
+
+-Ínicio previso 
+02/11/2022
+
+
